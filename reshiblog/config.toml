@@ -1,0 +1,23 @@
+baseURL = 'https://reshi-rajan.github.io/'
+languageCode = 'en-us'
+title = 'Reshi Rajan'
+theme = 'hugo-theme-nix'
+
+[params]
+  Name = "Reshi Rajan"
+  HeaderUsername = "rrajan"
+  HeaderHostname = "uga.edu"
+  About = "Hello! I am Reshi Rajan, an MA student at the University of Georgia pursuing my degree in Political Science & International Affairs. I graduated from the University of Georgia with B.A. in International Affairs and a minor in Mathematics in 2022. My research interests are primarily in comparative political behavior/institutions as well as quantiative methodology and rational choice theory. I currently have two research projects I am working on, one on ideological polarization and one in compulsory voting."
+  ProfilePicture = "IMG_20220.jpg"
+  GithubID = "reshi-rajan"
+  Email = "rrajan@uga.edu"
+  TwitterID = "RRajan01"
+[menu]
+  [[menu.header]]
+    name = "Research"
+    weight = 1
+    url = "/research"
+  [[menu.header]]
+    name = "CV"
+    weight = 2
+    url = "/cv"

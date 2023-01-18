@@ -1,7 +1,8 @@
-baseURL = 'https://reshi-rajan.github.io/'
-languageCode = 'en-us'
-title = 'Reshi Rajan'
-theme = 'hugo-theme-nix'
+baseurl = "https://reshi-rajan.github.io/"
+title = "Reshi Rajan"
+theme = "hugo-theme-nix"
+languageCode = "en-us"
+draft = "false"
 
 [params]
   Name = "Reshi Rajan"

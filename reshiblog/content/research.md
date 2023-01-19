@@ -12,6 +12,6 @@ My research interests are currently focused on comparative poltical behavior & i
 
 ###### Works in Progress
 
-The Effects of Compulsory Voting: A Case Study in Karnataka, India _with Shane P. Singh_
+1. The Effects of Compulsory Voting: A Case Study in Karnataka, India _with Shane P. Singh_
 
-Modeling Ideological Polarization: Spatial Modeling of Ideological Shifts
+2. Modeling Ideological Polarization: Spatial Modeling of Ideological Shifts

@@ -16,4 +16,4 @@ My research interests are currently focused on comparative poltical behavior & i
 
 2. Modeling Ideological Polarization: Spatial Modeling of Ideological Shifts
 
-3. Predicting Coalition Formation Using Notions of _p_-adic distance
+3. Predicting Coalition Formation Using Notions of p-adic distance

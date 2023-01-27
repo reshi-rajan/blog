@@ -1,4 +1,0 @@
-[submodule "reshiblog/public"]
-	path = reshiblog/public
-	url = https://github.com/reshi-rajan/reshi-rajan.github.io.git
-	branch = main

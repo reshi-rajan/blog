@@ -6,12 +6,10 @@ draft: false
 ---
 
 
-###### Research Interests
+###### Current Courses
 
-My research interests are currently focused on comparative poltical behavior & insitutions, quantitative methods, and rational choice theory. My research specifically looks at ways in which insitutional arrangements (e.g. voting systems, government type, etc.) influence voters in democracies.
+At this time, I have no current courses.
 
-###### Works in Progress
+###### Past Courses
 
-The Effects of Compulsory Voting: A Case Study in Karnataka, India _with Shane P. Singh_
-
-Modeling Ideological Polarization: Spatial Modeling of Ideological Shifts
+As of now, I have yet to TA or teach my own courses.

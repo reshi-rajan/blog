@@ -22,7 +22,3 @@ draft = "false"
     name = "CV"
     weight = 2
     url = "/cv"
-  [[menu.header]]
-    name = "Teaching"
-    weight = 3
-    url = "/teaching"

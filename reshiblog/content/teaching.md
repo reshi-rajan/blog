@@ -12,4 +12,3 @@ At this time, I have no current courses.
 
 ###### Past Courses
 
-As of now, I have yet to TA or teach my own courses.

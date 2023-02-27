@@ -12,3 +12,4 @@ At this time, I have no current courses.
 
 ###### Past Courses
 
+N/A

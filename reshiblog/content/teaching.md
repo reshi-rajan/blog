@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2023-01-17T21:40:12-05:00
+date: ?4/?26/?23
 showdate: false
 draft: false
 ---

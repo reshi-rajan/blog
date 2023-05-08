@@ -12,7 +12,7 @@ My research interests are currently focused on comparative political behavior & 
 
 ###### MA Thesis
 
-My MA thesis studied which voters follow [How To Vote Cards in Australia] (https://1drv.ms/b/s!AqgsL3oz1dqk40Lj1QrPIAlR5Wk7?e=lmnhGI). 
+My MA thesis studied voters in Australia and which voters follow My CV can be found [How To Vote Cards in Australia] (https://1drv.ms/b/s!AqgsL3oz1dqk40Lj1QrPIAlR5Wk7?e=kNloRe).
 
 ###### Works in Progress
 

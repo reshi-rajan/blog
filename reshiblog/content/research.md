@@ -10,7 +10,7 @@ My research interests are currently focused on comparative political behavior & 
 
 ###### MA Thesis
 
-My MA thesis studied which voters follow How To Vote Cards in Australia. It can be found [here] (https://1drv.ms/b/s!AqgsL3oz1dqk40Lj1QrPIAlR5Wk7?e=kNloRe).
+My MA thesis can be found[here](https://outlookuga-my.sharepoint.com/:b:/g/personal/rr09094_uga_edu/EbzzR8jrNJNPmnd7rgrYiRwBrre4t6K7_sQ3tbIDP3tj4A?e=RsyyaZ).
 
 ###### Works in Progress
 

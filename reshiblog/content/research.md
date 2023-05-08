@@ -1,10 +1,8 @@
 ---
 title: "Research"
-date: ?4/?26/?2023
-showdate: false
+date: 2023-01-17T21:40:12-05:00
 draft: false
 ---
-
 
 ###### Research Interests
 
@@ -12,7 +10,7 @@ My research interests are currently focused on comparative political behavior & 
 
 ###### MA Thesis
 
-My MA thesis studied voters in Australia and which voters follow My CV can be found [How To Vote Cards in Australia] (https://1drv.ms/b/s!AqgsL3oz1dqk40Lj1QrPIAlR5Wk7?e=kNloRe).
+My MA thesis studied which voters follow How To Vote Cards in Australia. It can be found [here] (https://1drv.ms/b/s!AqgsL3oz1dqk40Lj1QrPIAlR5Wk7?e=kNloRe).
 
 ###### Works in Progress
 

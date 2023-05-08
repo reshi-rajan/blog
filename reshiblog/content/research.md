@@ -12,7 +12,7 @@ My research interests are currently focused on comparative political behavior & 
 
 ###### MA Thesis
 
-My MA thesis studied which voters follow How To Vote Cards in Australia. My thesis committee included Shane P. Singh, Mollie J. Cohen, and Joseph T. Ornstein. 
+My MA thesis studied which voters follow [How To Vote Cards in Australia] (https://1drv.ms/b/s!AqgsL3oz1dqk40Lj1QrPIAlR5Wk7?e=lmnhGI). 
 
 ###### Works in Progress
 

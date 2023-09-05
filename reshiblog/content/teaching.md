@@ -8,7 +8,7 @@ draft: false
 
 ###### Current Courses
 
-At this time, I have no current courses.
+As of now I have not had the opportunity to TA.
 
 ###### Past Courses
 

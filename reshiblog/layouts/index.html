@@ -30,7 +30,7 @@
 				{{ with .Site.Params.About }}
 				<div class="row">
 					<div class="col-lg-4 offset-lg-4 user-description text-center">
-						<p>{{ . }}</p>
+						<p>{{ . | $.RenderString }}</p>
 					</div>
 				</div>
 				{{ end }}

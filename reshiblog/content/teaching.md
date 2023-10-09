@@ -8,7 +8,7 @@ draft: false
 
 ###### Current Courses
 
-*Fall 2023*
+*Fall 2023:*
 
 POLS 200: Foundations of Political Science, Prof. Todd Kent
 

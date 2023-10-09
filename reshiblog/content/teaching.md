@@ -8,7 +8,8 @@ draft: false
 
 ###### Current Courses
 
-As of now I have not had the opportunity to TA.
+*Fall 2023*
+POLS 200: Foundations of Political Science, Prof. Todd Kent
 
 ###### Past Courses
 

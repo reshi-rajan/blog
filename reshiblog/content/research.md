@@ -6,7 +6,7 @@ draft: false
 
 ###### Research Interests
 
-My research interests are currently focused on comparative political behavior & institutions, quantitative methods, and formal theory. My research specifically looks at ways in which institutional arrangements (e.g. voting systems, system of government, etc.) influence voters in democracies.
+My research interests are currently focused on comparative political behavior & institutions, quantitative methods, and formal theory. My research specifically looks at ways in which institutional arrangements (e.g. voting systems, system of government, etc.) influence voters views on economic conditions and the clarity of responsibility of economic conditions.
 
 ###### MA Thesis
 

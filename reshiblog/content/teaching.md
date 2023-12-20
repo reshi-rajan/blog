@@ -8,10 +8,9 @@ draft: false
 
 ###### Current Courses
 
+N/A
+###### Past Courses
+
 *Fall 2023:*
 
 TA for POLS 200: Foundations of Political Science, Prof. Todd Kent
-
-###### Past Courses
-
-N/A

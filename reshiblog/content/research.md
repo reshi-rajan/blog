@@ -6,7 +6,7 @@ draft: false
 
 ###### Research Interests
 
-My research interests are currently focused on comparative political behavior & institutions and quantitative methodology. My substantive interests specifically looks at the ways in which institutional arragenments shape voters' preferences among parties. I supplement this with methodological research questions about the ways to improve our ability to estimate the effects of institutional arrangements on voters and accurately estimate the spatial and spatio-temporal effects of institutions on voter behavior.
+My research interests are currently focused on the intersection of comparative political behavior & institutions and quantitative methodology. My substantive interests specifically looks at the ways in which institutional arragenments shape voters' preferences among parties. I supplement this with methodological research questions about the ways to improve our ability to estimate the effects of institutional arrangements on voters and accurately estimate the spatial and spatio-temporal effects of institutions on voter behavior.
 
 ###### MA Thesis
 

@@ -6,15 +6,15 @@ draft: false
 
 ###### Research Interests
 
-My research interests are currently focused on comparative political behavior & institutions, quantitative methods, and formal theory. My research specifically looks at ways in which institutional arrangements (e.g. voting systems, system of government, etc.) influence voters views on economic conditions and the clarity of responsibility of economic conditions.
+My research interests are currently focused on comparative political behavior & institutions and quantitative methodology. My substantive interests specifically looks at the ways in which institutional arragenments shape voters' preferences among parties. I supplement this with methodological research questions about the ways to improve our ability to estimate the effects of institutional arrangements on voters and accurately estimate the spatial and spatio-temporal effects of institutions on voter behavior.
 
 ###### MA Thesis
 
-My MA thesis looks at which voters follow HTV cards in Australia; it can be found at this [link](https://outlookuga-my.sharepoint.com/:b:/g/personal/rr09094_uga_edu/EbzzR8jrNJNPmnd7rgrYiRwBrre4t6K7_sQ3tbIDP3tj4A?e=RsyyaZ).
+My MA thesis looked at which voters follow How To Vote cards in Australia; it can be found at this [link](https://outlookuga-my.sharepoint.com/:b:/g/personal/rr09094_uga_edu/EbzzR8jrNJNPmnd7rgrYiRwBrre4t6K7_sQ3tbIDP3tj4A?e=RsyyaZ).
 
 ###### Works in Progress
 
-1. The Effects of Compulsory Voting: A Case Study in Karnataka, India _with Shane P. Singh_
+1. Does Toothless Compulsory Voting Increase Turnout? Evidence from India _with Shane P. Singh_
 
 2. Modeling Ideological Polarization: Spatial Modeling of Ideological Shifts
 
